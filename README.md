@@ -15,7 +15,7 @@ pesos colombianos (COP).
 La documentación completa del modelado de datos, descripción de variables
 y paso a paso para replicar el proceso se encuentra en el siguiente documento:
 
-
+[Documentación del modelado](Documentación_Tarea_2.pdf)
 
 ## Fuentes y créditos
 
