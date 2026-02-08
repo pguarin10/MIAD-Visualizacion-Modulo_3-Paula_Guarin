@@ -8,7 +8,14 @@ pesos colombianos (COP).
 
 ## Dashboard
 
-
+<iframe
+  src="https://lookerstudio.google.com/embed/reporting/kK8NWIGtSEo"
+  width="100%"
+  height="800"
+  frameborder="0"
+  style="border:0"
+  allowfullscreen>
+</iframe>
 
 ## Documentación
 
